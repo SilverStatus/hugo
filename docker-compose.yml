@@ -33,7 +33,7 @@ services:
     image: hugomods/hugo:nginx
     container_name: hugo
     volumes:
-      - ./hugo-site/public:/site
+      - ./hugo-site/public:/site:ro
     networks:
       - proxy-network
     restart: unless-stopped
