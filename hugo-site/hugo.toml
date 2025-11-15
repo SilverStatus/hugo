@@ -1,0 +1,5 @@
+baseURL = 'http://54.166.155.11/'
+languageCode = 'en-us'
+title = 'My Hugo Blog'
+theme = 'ananke'
+
