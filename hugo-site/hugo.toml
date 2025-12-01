@@ -1,5 +1,20 @@
-baseURL = 'http://54.166.155.11/'
+baseURL = 'http://44.203.164.126/'
 languageCode = 'en-us'
-title = 'My Hugo Blog'
+title = 'The DevOps Guy Blogging'
 theme = 'ananke'
 
+[menus]
+  [[menus.main]]
+    name = 'Home'
+    pageRef = '/'
+    weight = 10
+
+  [[menus.main]]
+    name = 'About'
+    pageRef = '/about'
+    weight = 20
+
+  [[menus.main]]
+    name = 'Articles'
+    pageRef = '/articles'
+    weight = 30
