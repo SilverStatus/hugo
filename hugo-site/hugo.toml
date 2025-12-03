@@ -13,8 +13,3 @@ theme = 'ananke'
     name = 'About'
     pageRef = '/about'
     weight = 20
-
-  [[menus.main]]
-    name = 'Articles'
-    pageRef = '/articles'
-    weight = 30

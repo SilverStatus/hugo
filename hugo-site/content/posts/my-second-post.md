@@ -1,10 +1,10 @@
-+++
-title = 'My First Blog Post'
-summary = "Teaser text shown in lists."
-date = 2025-11-15T16:40:00+07:00
-draft = false
-tags = ['tutorial', 'hugo']
-categories = ['blogging']
++++ 
+title = 'My Second Blog Post'
+summary = "Short teaser text shown in lists."
+date = 2025-12-04T05:40:00+07:00 
+draft = false 
+tags = ['tutorial', 'hugo'] 
+categories = ['blogging'] 
 +++
 
 ## Introduction
